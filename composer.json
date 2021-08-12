@@ -3,7 +3,7 @@
     "description": "use redis geo find near people",
     "type": "yes",
     "require": {
-        "predis/predis": ">=3.2"
+
     },
     "license": "Apache-2.0",
     "autoload": {
